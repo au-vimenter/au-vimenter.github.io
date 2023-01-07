@@ -86,4 +86,24 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 ### 발표
 
 - 이종립: [Vim의 gx 확장하기]( https://johngrib.github.io/wiki/article/extend-vim-gx/ )
+- 정경호: 
+- 이재구: [vim을 잘 쓰기 위해 잘 쓰는 법]( https://docs.google.com/presentation/d/1wrisM7LSOEuddhaCvL4vAWH1zCv3c3XcHxUwu4ZOglY/edit#slide=id.g1bea4c722cc_0_160 )
+    - [vim 설정 글을 쓸 때, 꼭 있었으면 하는 내용]( https://lionhairdino.github.io/posts/2022-12-14-howtoWritePostAboutVim.html )
+- 여민수: Vim을 사용한 Git 소스 코드 관리와 리뷰
+- 강규진: vimrc 2022로 변한 나의 vimrc 후기
+- 이재열: NeoVim 전용 Mastodon 클라이언트 플러그인
+    - <https://github.com/kode-team/mastodon.nvim >
+- 작성중...
+
+## 기록과 사진
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/photo-prepare.jpeg )
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/photo-screen.jpeg )
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/photo-on.jpeg )
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/photo-online.jpeg )
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">VimEnter 2022<br>너무 재미있었고 새로운 것들 많이 배우고 감!<br><br>Xcode의 vim key binding발표도 있어서 반가웠다ㅋㅋㅋ<a href="https://twitter.com/hashtag/vimenter?src=hash&amp;ref_src=twsrc%5Etfw">#vimenter</a> <a href="https://twitter.com/hashtag/vimenterbye2022?src=hash&amp;ref_src=twsrc%5Etfw">#vimenterbye2022</a> <a href="https://t.co/l7U9mKNgKI">pic.twitter.com/l7U9mKNgKI</a></p>&mdash; KyuYoung Heo (@bbvch13531) <a href="https://twitter.com/bbvch13531/status/1606281765412163585?ref_src=twsrc%5Etfw">December 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
