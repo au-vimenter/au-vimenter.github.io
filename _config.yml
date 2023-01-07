@@ -31,6 +31,10 @@ permalink: /post/:path/
 
 # Build settings
 theme: minima
+
+# https://github.com/jekyll/minima/blob/master/_layouts/default.html
+lang: ko
+
 plugins:
   - jekyll-feed
 
