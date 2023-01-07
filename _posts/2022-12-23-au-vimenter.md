@@ -55,7 +55,8 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 
 ## 진행
 
-### 모임 시작 인사: 이종립
+<details><summary>모임 시작 인사: 이종립 (클릭하면 열립니다)</summary>
+<div markdown="1">
 
 >
 안녕하세요. au VimEnter 행사에 참여해주신 여러분 모두 반갑습니다.
@@ -79,6 +80,8 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 >
 소스코드는 다음 링크에서 확인하실 수 있습니다.
 > <https://github.com/johngrib/dotfiles/commit/c077a8a16c20a556b56a65f9e895acc846f3625c >
+
+</div></details>
 
 ### 발표
 
