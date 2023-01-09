@@ -93,6 +93,7 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 - 강규진: vimrc 2022로 변한 나의 vimrc 후기
 - 이재열: NeoVim 전용 Mastodon 클라이언트 플러그인
     - <https://github.com/kode-team/mastodon.nvim >
+- 박광후: NeoVim lua 파일 깔끔하게 관리하기
 - 작성중...
 
 ## 기록과 사진
