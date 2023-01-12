@@ -110,3 +110,32 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">VimEnter 2022<br>너무 재미있었고 새로운 것들 많이 배우고 감!<br><br>Xcode의 vim key binding발표도 있어서 반가웠다ㅋㅋㅋ<a href="https://twitter.com/hashtag/vimenter?src=hash&amp;ref_src=twsrc%5Etfw">#vimenter</a> <a href="https://twitter.com/hashtag/vimenterbye2022?src=hash&amp;ref_src=twsrc%5Etfw">#vimenterbye2022</a> <a href="https://t.co/l7U9mKNgKI">pic.twitter.com/l7U9mKNgKI</a></p>&mdash; KyuYoung Heo (@bbvch13531) <a href="https://twitter.com/bbvch13531/status/1606281765412163585?ref_src=twsrc%5Etfw">December 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## 기부
+
+au VimEnter call Bye2022() 참가비와 스탭의 개인 비용을 모아 2023-01-12 목요일에 **세이브더칠드런**에 기부하였습니다.
+
+본래 행사 기획 단계에서는 [vim.org]( https://www.vim.org/ )에 기부할 계획이었으나,
+국내 정책상 PayPal을 통한 기부금 전달에 어려움이 있어 논의 후 세이브더칠드런에 기부하였습니다.
+
+- 총 `500,000`원을 **세이브더칠드런**에 기부하였습니다.
+    - 18명 참가비에 대해 **이벤터스**에서 정산받은 금액: `398,517`원
+    - 1명 참가비에 대해 스탭(정경호)이 현금으로 받은 금액: `30,000`원
+    - 스탭(이종립, 정경호) 개인 후원금: `71,483`원
+
+### 주요 내역 스크린샷 및 파일 링크
+
+#### 이벤터스 정산서
+
+정산서 스크린샷([내역 Microsoft Excel file]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/eventus-bill.xlsx ))
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/eventus-bill.png )
+
+#### 세이브더칠드런후원
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/2023-01-12-save-the-children.jpg )
+
+후원금은 2023-01-12 목요일에 세이브더칠드런에서 결제하였으며, 2023-01-12 11:26 현재는 아직 후원금 입금확인중인 상태입니다.
+
+후원상태를 지속적으로 업데이트할 예정입니다.
+
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/2023-01-12-save-the-children-status.jpg )
