@@ -86,7 +86,7 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 ### 발표
 
 - 이종립: [Vim의 gx 확장하기]( https://johngrib.github.io/wiki/article/extend-vim-gx/ )
-- 정경호: 
+- 정경호: [Vim으로 Clojure 개발해보기](https://docs.google.com/presentation/d/1vMJNQYhMrxV9DnMt8bVTFByPmii-hIJptUrGqv80Tnk/edit?usp=sharing)
 - 이재구: [vim을 잘 쓰기 위해 잘 쓰는 법]( https://docs.google.com/presentation/d/1wrisM7LSOEuddhaCvL4vAWH1zCv3c3XcHxUwu4ZOglY/edit#slide=id.g1bea4c722cc_0_160 )
     - [vim 설정 글을 쓸 때, 꼭 있었으면 하는 내용]( https://lionhairdino.github.io/posts/2022-12-14-howtoWritePostAboutVim.html )
 - 여민수: Vim을 사용한 Git 소스 코드 관리와 리뷰
