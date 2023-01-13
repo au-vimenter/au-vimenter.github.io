@@ -96,7 +96,6 @@ Vim에 대해 잘 모르는 분들도 환영합니다!
 - 박광후: NeoVim lua 파일 깔끔하게 관리하기
 - 유승태: [Swift with Vim, Newbie with Vim]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/Vim.key )
     - [pptx 변환된 버전]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/Vim.pptx )
-- 작성중...
 
 ## 기록과 사진
 
