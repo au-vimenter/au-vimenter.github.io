@@ -133,8 +133,7 @@ au VimEnter call Bye2022() 참가비와 스탭의 개인 비용을 모아 2023-0
 
 ![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/2023-01-12-save-the-children.jpg )
 
-후원금은 2023-01-12 목요일에 세이브더칠드런에서 결제하였으며, 2023-01-12 11:26 현재는 아직 후원금 입금확인중인 상태입니다.
+후원금은 2023-01-12 목요일에 세이브더칠드런에서 결제하였습니다.
 
-후원상태를 지속적으로 업데이트할 예정입니다.
+![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/2023-01-12-save-the-children-confirm.png )
 
-![]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/2023-01-12-save-the-children-status.jpg )
