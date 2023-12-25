@@ -13,11 +13,39 @@ date     : 2022-12-23 20:43:40 +0900
 
 ![logo]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/auvimenter2023.jpg )
 
+### 공지
+
+- 공지 페이지: <https://event-us.kr/vim/event/74978 >
+    - [공지화면 백업(png)]( ./resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/auvimenter2023-eventus.png )
+- 모임 일시: 2023년 12월 23일(토) 15:00 ~ 18:00
+- 참기 신청: 2023년 11월 27일(일) 00:00 ~ 2023년 12월 23일(토) 14:30
+- 참가 비용
+    - 직장인: 30,000원
+    - 취준생,학생: 15,000원
+- 모임 장소: 강남구 논현로 79길 15 2층 코드숨
+    - [Google 지도](https://goo.gl/maps/2fjtgVkgL8oE2Hy29 ), [네이버 지도](https://naver.me/GmV1RgNP ), [카카오 지도](http://kko.to/t_LyPvDnn9 )
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.4426216585402!2d127.03477311618877!3d37.49747747981099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca155a3cf765d%3A0xab82d523db7369d!2z7ISc7Jq47Yq567OE7IucIOqwleuCqOq1rCDrhbztmITroZw3Oeq4uCAxNSAy7Li1!5e0!3m2!1sko!2skr!4v1673082655943!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+### 협찬
+
 **장소 협찬: _CodeSoom_**
 
 [![codesoom]( /resource/94/DF5E75-D0EF-43A9-ABCA-E169D4A67BFB/codesoom-logo-pc.png )]( https://www.codesoom.com/ )
 
-### 소개하는 글: 이종립
+**도서 협찬(가나다순)**
+
+- [도서출판 인사이트](https://ebook.insightbook.co.kr/ )
+- [제이펍](https://jpub.tistory.com/ )
+- [한빛미디어](https://www.hanbit.co.kr/media/ )
+
+협찬받은 도서는 발표자분들과 참가자분들에게 추첨을 통해 선물로 드립니다.
+
+
+### 소개하는 글
+
+Vi IMproved, a programmer's text editor에 대한 열정이 있는 분이라면 초보자와 숙련자 모두 환영합니다.
 
 Vim에 흥미와 관심을 갖고 계신 여러분 안녕하세요.
 
@@ -27,8 +55,11 @@ Vim을 좋아하는 사람들이 서로 Vim 이야기를 나누는 VimEnter의 �
 
 서로의 노하우도 공유하고 트렌드에 대한 이야기도 나누며, 슬픈 일을 위로하고 좋은 소식을 나눌 수 있으면 좋겠습니다.
 
+## 진행
 
-### 소개하는 글: 이재열
+<details><summary>모임 시작 인사: 이재열 vim.kr 모더레이터 (클릭하면 열립니다)</summary>
+<div markdown="1">
+
 >
 안녕하세요. 저는 한국어권의 Vim 사용자들을 위한 커뮤니티, vim.kr의 모더레이터 이재열입니다. kodingwarrior 혹은 kokoko.kojima 라는 닉네임을 사용하고 있습니다.
 >
@@ -64,11 +95,19 @@ Vim으로 생산성 파이프라인을 구성하는 모든 사람들이 서로�
 >
 이제 세션 시작하겠습니다.
 
+</div></details>
 
+### 발표
 
+사회: 이종립
 
+- [한윤석](https://github.com/hannut91 ): Vim 힘들고 빠르게 배우는 방법
+- [조성진](https://github.com/devstefancho ): [toggleTerm 플러그인으로 내 손에 맞는 터미널 환경만들기](https://stefancho.netlify.app/slides/vim-enter/ )
+- [이종립](https://github.com/johngrib/ ): [Vimwiki에서 사용하기 위한 나만의 LSP를 만들자](https://johngrib.github.io/wiki/article/vimwiki-lsp/ )
+- 이효승: Windows Unreal Engine 개발자의 Neovim
+- [차주훈](https://github.com/jcha0713 ): [트리시터를 활용해서 나만의 플러그인 만들기](https://github.com/jcha0713/vimconf/blob/main/vimconf.md )
+- [이재열](https://github.com/malkoG ): [Neovim으로 생산성 퀀텀점프하기(그리고 다루지 못했던 얘기)](https://slides.kodingwarrior.dev/boosting-productivity-part-2.html )
 
-Vi IMproved, a programmer's text editor에 대한 열정이 있는 분이라면 초보자와 숙련자 모두 환영합니다.
+## 기록과 사진
 
-### 공지
 
