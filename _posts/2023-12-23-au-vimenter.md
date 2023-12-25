@@ -110,4 +110,47 @@ Vim으로 생산성 파이프라인을 구성하는 모든 사람들이 서로�
 
 ## 기록과 사진
 
+행사 시작 전.
 
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/00.jpeg )  |  ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/00-1.jpg )     |
+
+
+조성진님 발표.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/02-cho.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/02-cho-1.jpeg ) |
+
+이종립님 발표.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/03-johngrib.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/03-johngrib-1.jpeg ) |
+
+이효승님 발표.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/04-lee.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/04-lee-1.jpeg ) |
+
+차주훈님 발표.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/05-cha.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/05-cha-1.jpeg ) |
+
+이재열님 발표.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/06-kojima.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/06-kojima-1.jpeg ) |
+
+협찬받은 도서를 증정하기 위해 추첨을 하는 모습.
+
+| ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/07-book-random.jpeg ) | ![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/07-book-random-1.jpeg ) |
+
+## 행사 후기
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">좋은 기회가 생겨 VimEnter 행사에서 Neovim과 제가 만든 플러그인에 대해 발표를 했습니다. 처음 해보는 발표라 많이 긴장했네요 😅 중간에 매끄럽지 못한 부분도 있었지만 들어주신 분들 모두 감사합니다. 다음엔 더 잘할게요! <a href="https://t.co/CcDZsixwSA">https://t.co/CcDZsixwSA</a></p>&mdash; joohoon(주훈)✱ (@jcha0713) <a href="https://twitter.com/jcha0713/status/1738553816457638266?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">오늘 VimEnter 모임에 참석하였습니다.<br>생애 처음으로 발표도 했습니다. 발표하는게<br>이렇게 즐거운일인지 몰랐네요.<br>앞으로도 Vim 모임이 계속 되면 좋겠네요.<br>의미있는 하루였습니다 ☺️</p>&mdash; DevStefanCho (@devstefancho) <a href="https://twitter.com/devstefancho/status/1738554744866836873?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">우왕 <a href="https://t.co/HYjnucArz5">pic.twitter.com/HYjnucArz5</a></p>&mdash; Lee Jae-yeol (🐘 kodingwarrior@silicon.moe) (@kodingwarrior) <a href="https://twitter.com/kodingwarrior/status/1738465294249791930?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">2023 VimEnter 다녀왔습니다.<br><br>발표들이 다 너무 좋았습니다. Vim 행사 자주 있으면 좋겠네요.<br><br>추첨으로 인사이트의 Practical Vim 책을 받았습니다. 잠시 살펴보니 대충은 알고 있는 내용이지만 다시 체계적으로 짚어볼 수 있어 정독해야 겠다는 생각이 드네요. <a href="https://t.co/wjbK5JOudG">pic.twitter.com/wjbK5JOudG</a></p>&mdash; 젤리뽀 (@JellyPooo) <a href="https://twitter.com/JellyPooo/status/1738759705974259765?ref_src=twsrc%5Etfw">December 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">우하하 <a href="https://t.co/br8QrTB1FP">pic.twitter.com/br8QrTB1FP</a></p>&mdash; Lee Jae-yeol (🐘 kodingwarrior@silicon.moe) (@kodingwarrior) <a href="https://twitter.com/kodingwarrior/status/1738563362626367946?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">추운 겨울의 한가운데를 지나는 이 때를<br>뜨겁고, 빛나는 시간으로 만들어주신 두 분께 감사드려요 🙏🏼<a href="https://twitter.com/John_Grib?ref_src=twsrc%5Etfw">@John_Grib</a> <a href="https://twitter.com/kodingwarrior?ref_src=twsrc%5Etfw">@kodingwarrior</a> <a href="https://t.co/sQ7M8h5Vzf">pic.twitter.com/sQ7M8h5Vzf</a></p>&mdash; 햄버거 개발자 (@dev_haemil) <a href="https://twitter.com/dev_haemil/status/1738586871884816678?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">멋진 내용을 준비해주신 슈스만재 재열님<br>세션 시작 직전의 모습<br><br>아싸라서 끝까지 자리를 지키지 못해 아쉬움이 남는 하루😭😭 <a href="https://t.co/VYDijPGFZT">pic.twitter.com/VYDijPGFZT</a></p>&mdash; 햄버거 개발자 (@dev_haemil) <a href="https://twitter.com/dev_haemil/status/1738589364702298217?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
