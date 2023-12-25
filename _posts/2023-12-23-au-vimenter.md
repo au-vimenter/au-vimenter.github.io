@@ -104,7 +104,7 @@ Vim으로 생산성 파이프라인을 구성하는 모든 사람들이 서로�
 - [한윤석](https://github.com/hannut91 ): Vim 힘들고 빠르게 배우는 방법
 - [조성진](https://github.com/devstefancho ): [toggleTerm 플러그인으로 내 손에 맞는 터미널 환경만들기](https://stefancho.netlify.app/slides/vim-enter/ )
 - [이종립](https://github.com/johngrib/ ): [Vimwiki에서 사용하기 위한 나만의 LSP를 만들자](https://johngrib.github.io/wiki/article/vimwiki-lsp/ )
-- 이효승: Windows Unreal Engine 개발자의 Neovim
+- 이효승: [Windows Unreal Engine 개발자의 Neovim]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/WindowsUnrealEngineNeovim.pdf )
 - [차주훈](https://github.com/jcha0713 ): [트리시터를 활용해서 나만의 플러그인 만들기](https://github.com/jcha0713/vimconf/blob/main/vimconf.md )
 - [이재열](https://github.com/malkoG ): [Neovim으로 생산성 퀀텀점프하기(그리고 다루지 못했던 얘기)](https://slides.kodingwarrior.dev/boosting-productivity-part-2.html )
 
