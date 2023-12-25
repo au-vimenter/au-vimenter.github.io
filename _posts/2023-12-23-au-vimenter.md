@@ -25,7 +25,7 @@ date     : 2022-12-23 20:43:40 +0900
 - 모임 장소: 강남구 논현로 79길 15 2층 코드숨
     - [Google 지도](https://goo.gl/maps/2fjtgVkgL8oE2Hy29 ), [네이버 지도](https://naver.me/GmV1RgNP ), [카카오 지도](http://kko.to/t_LyPvDnn9 )
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.4426216585402!2d127.03477311618877!3d37.49747747981099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca155a3cf765d%3A0xab82d523db7369d!2z7ISc7Jq47Yq567OE7IucIOqwleuCqOq1rCDrhbztmITroZw3Oeq4uCAxNSAy7Li1!5e0!3m2!1sko!2skr!4v1673082655943!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.4426216585402!2d127.03477311618877!3d37.49747747981099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca155a3cf765d%3A0xab82d523db7369d!2z7ISc7Jq47Yq567OE7IucIOqwleuCqOq1rCDrhbztmITroZw3Oeq4uCAxNSAy7Li1!5e0!3m2!1sko!2skr!4v1673082655943!5m2!1sko!2skr" width="90%" height="200px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ### 협찬
