@@ -92,16 +92,45 @@ Vim으로 생산성 파이프라인을 구성하는 모든 사람들이 서로�
 
 </div></details>
 
-### 발표
+### 발표 세션
 
 사회: 이종립
 
-- [한윤석](https://github.com/hannut91 ): Vim 힘들고 빠르게 배우는 방법
+#### 한윤석: Vim 힘들고 빠르게 배우는 방법 {#session-1}
+
+- [한윤석](https://github.com/hannut91 ): [Vim 힘들고 빠르게 배우는 방법]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/vim-hard-fast.pdf )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/Zy5vBLDAGVA?si=3mGZ82UjzLs-Wgq2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 조성진: toggleTerm 플러그인으로 내 손에 맞는 터미널 환경만들기 {#session-2}
+
 - [조성진](https://github.com/devstefancho ): [toggleTerm 플러그인으로 내 손에 맞는 터미널 환경만들기](https://stefancho.netlify.app/slides/vim-enter/ )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/lbZkCPaFom0?si=XZ_qIiyDKl9-1w51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 이종립: Vimwiki에서 사용하기 위한 나만의 LSP를 만들자 {#session-3}
+
 - [이종립](https://github.com/johngrib/ ): [Vimwiki에서 사용하기 위한 나만의 LSP를 만들자](https://johngrib.github.io/wiki/article/vimwiki-lsp/ )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/XlcrTAUVuPI?si=7DHM_3A3wqm7e3YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 이효승: Windows Unreal Engine 개발자의 Neovim {#session-4}
+
 - 이효승: [Windows Unreal Engine 개발자의 Neovim]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/WindowsUnrealEngineNeovim.pdf )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/I_ZuLhM5bXw?si=4If9SSUfBJxNVvQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 차주훈: 트리시터를 활용해서 나만의 플러그인 만들기 {#session-5}
+
 - [차주훈](https://github.com/jcha0713 ): [트리시터를 활용해서 나만의 플러그인 만들기](https://github.com/jcha0713/vimconf/blob/main/vimconf.md )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/EacPHrYRc_4?si=7l3rMb_wTLNKCiDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 이재열: Neovim으로 생산성 퀀텀점프하기(그리고 다루지 못했던 얘기) {#session-6}
+
 - [이재열](https://github.com/malkoG ): [Neovim으로 생산성 퀀텀점프하기(그리고 다루지 못했던 얘기)](https://slides.kodingwarrior.dev/boosting-productivity-part-2.html )
+
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/DAtLK9AvspI?si=wERI3zQHRI5tkgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 기록과 사진
 
