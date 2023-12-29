@@ -37,8 +37,19 @@ date     : 2022-12-23 20:43:40 +0900
 **도서 협찬(가나다순)**
 
 - [도서출판 인사이트](https://ebook.insightbook.co.kr/ )
+
+![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/insight-book-logo.jpg )
+{:style="max-width:200px"}
+
 - [제이펍](https://jpub.tistory.com/ )
+
+![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/jpub-book-logo.jpeg )
+{:style="max-width:200px"}
+
 - [한빛미디어](https://www.hanbit.co.kr/media/ )
+
+![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/hanbit-book-logo.png )
+{:style="max-width:200px"}
 
 협찬받은 도서는 발표자분들과 참가자분들에게 추첨을 통해 선물로 드립니다.
 
