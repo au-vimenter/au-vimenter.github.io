@@ -195,3 +195,22 @@ table td {
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">추운 겨울의 한가운데를 지나는 이 때를<br>뜨겁고, 빛나는 시간으로 만들어주신 두 분께 감사드려요 🙏🏼<a href="https://twitter.com/John_Grib?ref_src=twsrc%5Etfw">@John_Grib</a> <a href="https://twitter.com/kodingwarrior?ref_src=twsrc%5Etfw">@kodingwarrior</a> <a href="https://t.co/sQ7M8h5Vzf">pic.twitter.com/sQ7M8h5Vzf</a></p>&mdash; 햄버거 개발자 (@dev_haemil) <a href="https://twitter.com/dev_haemil/status/1738586871884816678?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">멋진 내용을 준비해주신 슈스만재 재열님<br>세션 시작 직전의 모습<br><br>아싸라서 끝까지 자리를 지키지 못해 아쉬움이 남는 하루😭😭 <a href="https://t.co/VYDijPGFZT">pic.twitter.com/VYDijPGFZT</a></p>&mdash; 햄버거 개발자 (@dev_haemil) <a href="https://twitter.com/dev_haemil/status/1738589364702298217?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 기부
+
+VimEnter 2023 참가비와 스탭의 개인 비용을 더해 **세이브더칠드런**에 기부할 예정입니다.
+
+- 총 26명 참가비에 대해 **이벤터스**에서 정산받은 금액: `638,618`원
+
+### 주요 내역 스크린샷 및 파일 링크
+
+#### 이벤터스 정산서
+
+정산서 스크린샷([내역 Microsoft Excel file]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/eventus-bill.xlsx ))
+
+![]( /resource/A1/3C4C10-123F-43E1-A636-9474A66BA549/eventus-bill.jpg )
+
+#### 세이브더칠드런 후원
+
+후원 예정입니다.
+
