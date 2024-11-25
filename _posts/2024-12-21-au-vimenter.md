@@ -29,6 +29,7 @@ date     : 2024-11-08 22:14:00 +0900
 
 - **장소: [리턴제로 - 차세대 음성 AI의 미래](https://www.rtzr.ai/ )**
 - **다과: [LG 유플러스 아이들나라](https://www.i-nara.co.kr/ )**
+- **영상촬영: [코드숨](https://www.codesoom.com/ )**
 
 ### 소개하는 글
 
