@@ -52,14 +52,77 @@ VimEnter 2024는 Vim을 좋아하는 모든 분들을 환영하지만
 
 ## 진행
 
-### 발표 주제
+### 발표 세션
 
-- 이재열님 : You don't need Plugin, Long live the command-line
-- 황정현님 : vscode-vim 사용후기
-- 이효승님 : IdeaVim 사용 경험 공유
-- 은은수님 : 대학생의 터미널 생활 적응기
-- 이광효님 : 터미널에서 Vim을 활용해서 생산성을 높이는 방법
-- 이종립님 : vi 문법으로 sed 처럼 사용할 수 있는 명령어, vised 개발 후기 
-- 차주훈님 : 전통적인 커밋 패턴과는 다르게, 개발자의 의도를 먼저 선언하는 Git Workflow 제안 
-- aca님 : nix를 활용해서 vim의 다양한 문제를 해결하기
+사회: 이종립
+
+#### 이재열: You don't need Plugin, Long live the command-line
+
+[발표자료](https://www.figma.com/slides/0sqTNJOHNfSLavNKgFVlkg/You-dont-need-plugin-(Korean-Ver.)?node-id=1-104&t=ZUFusBr7iWGfPzm6-1 ) /
+[백업]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/you-dont-need-plugin.pdf )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwgdQclEQoE?si=wJaiJvqqS2pBjs57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 이효승: IdeaVim으로 이사하기
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5g7rDb4B9zs?si=q2iURyk27raxv2gN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 이광효: Terminal-vim
+
+[발표자료](https://docs.google.com/presentation/d/1WbvVDq732wYKnArG5GZcrcy6WE8KP92DW0mnsEO40eA/edit#slide=id.g31f522b5860_0_36 ) /
+[백업]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/terminal-vim.pptx )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9BsrhrBfARQ?si=dBIPawucKBsQNm5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 은은수: 대학생의 터미널 생활 적응기
+
+[발표자료](https://www.figma.com/slides/0VyZXxir7jAfbhmYKgzK1a/vimenter?node-id=1-23&t=fLSes8LrD7irDtQi-0 ) /
+[백업]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/vimenter.pdf )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A41LpWIZ6v0?si=5k3KjRDKQucUla_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### aca: Fix vim with nix - nix as a bridge
+
+[발표자료](https://codeberg.org/aca/20241221 ) /
+[백업(pdf)]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/fix_vim_with_nix.pdf ) /
+[백업(md)]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/fix_vim_with_nix.md )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fdMTxqQyYjs?si=wEXmCyTsrl5kb8Bf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 황정현: VSCodeVim
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOLoE4pJQf4?si=r2-Og0WHe5mE41Zz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### 차주훈: Intent Driven Git - 의도 중심 깃
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDRs4Pl1Lq0?si=xzaR1C_ONC6DcFjK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+#### 이종립: Vim의 바깥에서 - Vim을 자유롭게, 소모품처럼 사용하기
+
+[발표자료](https://johngrib.github.io/wiki/article/out-of-the-vim/ ) /
+[백업]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/out-of-the-vim.pdf )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1uZhjpVMfo?si=hsSyeJHTdCdf9Tj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 기부
+
+VimEnter 2024 참가비를 **세이브더칠드런**에 기부하였습니다.
+
+### 주요 내역 스크린샷 및 파일 링크
+
+- 총 `567,660`원을 **세이브더칠드런**에 기부하였습니다.
+    - 30명 참가비에 대해 **이벤터스**에서 정산받은 금액: `567,660`원
+
+#### 이벤터스 정산서
+
+정산서 스크린샷([내역 Microsoft Excel file]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/eventus-bill-2024.xlsx ))
+
+![]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/eventus-bill.png )
+
+#### 세이브더칠드런 후원
+
+![]( /resource/B1/F54AC0-3DB5-4C66-9E0A-70DA128319B1/2024-12-31-save-the-children.jpg )
+
+후원금은 2024-12-31 화요일에 세이브더칠드런에서 결제하였습니다.
 
